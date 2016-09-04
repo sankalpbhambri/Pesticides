@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Allergens.iml" filepath="$PROJECT_DIR$/Allergens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pesticides.iml" filepath="$PROJECT_DIR$/Pesticides.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>

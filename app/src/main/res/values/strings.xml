@@ -1,7 +1,12 @@
 <resources>
-    <string name="app_name">Top 10 US Universities 2015/16</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">Pesticide Contaminated Foods</string>
 
 <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="one">Most Pesticide Contaminated Foods</string>
+    <string name="two">Least Pesticide Contaminated Foods</string>
+    <string name="three">Contact Us</string>
+    <string name="fourth">FAQ</string>
+    <string name="action_settings">Settings</string>
+    <string name="fifth">Top Scholarships</string>
+
 </resources>
